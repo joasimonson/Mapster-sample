@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapsterSample", "MapsterSample\MapsterSample.csproj", "{DF29B503-1EA5-4208-A419-0D43B70C71AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapsterSample.Tests", "MapsterSample.Tests\MapsterSample.Tests.csproj", "{339F9871-38EB-4D83-8B0B-AF759D2A68CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1701AB25-A2B5-4398-9089-1C6816F67D0E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF29B503-1EA5-4208-A419-0D43B70C71AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF29B503-1EA5-4208-A419-0D43B70C71AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF29B503-1EA5-4208-A419-0D43B70C71AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF29B503-1EA5-4208-A419-0D43B70C71AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339F9871-38EB-4D83-8B0B-AF759D2A68CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339F9871-38EB-4D83-8B0B-AF759D2A68CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339F9871-38EB-4D83-8B0B-AF759D2A68CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339F9871-38EB-4D83-8B0B-AF759D2A68CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96BFA78-0CF5-42EF-9710-E4C1A5DC2626}
+	EndGlobalSection
+EndGlobal
